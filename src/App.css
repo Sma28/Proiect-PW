@@ -36,3 +36,99 @@
     transform: rotate(360deg);
   }
 }
+
+tr:nth-child(odd) {
+  background : #CCC;
+}
+tr:nth-child(even) {
+  background : #FFF;
+}
+tr {
+  width:200px;
+}
+
+td {
+  width : 200px;
+}
+.bookDetails {
+  width :200px;
+}
+
+.items {
+  display: inline-block;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.insertAuthorForm {
+  padding-top : 50px;
+  padding-left: 10px;
+  width : 500px;
+  
+}
+
+.insertFoodForm {
+  padding-top : 50px;
+  padding-left: 10px;
+  width : 60% !important;
+  
+}
+
+.input {
+  border-radius: 25px;
+  padding-left: 5px;
+  width : 60% !important;
+}
+
+.badge {
+  padding-left: 10px;
+}
+
+.navBar {
+  font-family: "Comic Sans MS";
+  font-size: 20px;
+}
+
+.loginButton {
+  padding-left: 20px;
+  display: inline-block;
+}
+
+
+.carouselImg {
+  height: 600px;
+}
+
+.captionStyle {
+  color:yellow;
+  font-family: 'Comics Sans';
+  background-size: cover;
+}
+
+.deleteButton {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.questionForm {
+  padding-left: 10px;
+  text-align: center;
+}
+
+.headerForm {
+  text-align: center;
+}
+
+.questionInput {
+  width:80%;
+}
+
+.questionInputForm {
+  width: 100%;
+}
+
+.articleCard {
+  width: 98%;
+  padding-left: 10px !important;
+  padding-bottom: 10px !important;
+}
